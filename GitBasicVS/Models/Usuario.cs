@@ -7,5 +7,6 @@ namespace GitBasicVS.Models
 {
     public class Usuario
     {
+        public int id { get; set; }
     }
 }
